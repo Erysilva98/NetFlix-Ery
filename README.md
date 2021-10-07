@@ -21,7 +21,7 @@ Recriando a Interface da NetFlix
     - Pausa ás 16h32m 
     * ----------------------------- *
     - Início ás 20h45m
-    - #6 Aula Completa
+    - #6 e #7 Aula Completa
     - Adcionado o Carrosel de Filmes 
     - Carrosel criado usando Jquery
     - Owl Carousel ( Demons / basic  )
@@ -29,4 +29,14 @@ Recriando a Interface da NetFlix
     - Finalizando ás 22h36m
     * ----------------------------- * 
 
-#### 
+#### Implementado Responsividade ao site
+    - 07/10/2021
+    - Início ás 20h
+    - #8 e #9 Aula Completa
+    - Aulas Concluidas 
+    - Finalizando ás 20h30m
+    * ------------------------------ *
+
+#### Idéias para Implementadas
+    - 
+    - 
