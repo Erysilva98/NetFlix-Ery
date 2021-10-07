@@ -1,6 +1,14 @@
 # NetFlix-Ery
 Recriando a Interface da NetFlix
 
+### Digital Inovation One
+    - Desenvolvimento do Projeto com Base nas aulas
+    - Liguagens
+        * HTML5
+        * CSS3
+        * JavaScript
+    * ---------------------------- *
+
 #### INICIANDO PROJETO 
     - 05/10/2021 
     - Estrutura do Projeto Criada
@@ -11,5 +19,14 @@ Recriando a Interface da NetFlix
     - Estrutura Html e Css inicial
     - #3 e #5 Aula Completa
     - Pausa ás 16h32m 
-    * ---------------------------- *
-    -
+    * ----------------------------- *
+    - Início ás 20h45m
+    - #6 Aula Completa
+    - Adcionado o Carrosel de Filmes 
+    - Carrosel criado usando Jquery
+    - Owl Carousel ( Demons / basic  )
+    - Imagens do catágolo - The moveis db
+    - Finalizando ás 22h36m
+    * ----------------------------- * 
+
+#### 
