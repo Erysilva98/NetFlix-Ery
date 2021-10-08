@@ -107,3 +107,15 @@ header nav a:hover {
 .carrosel-filmes {
     margin-top: 10px;
 }
+
+.carrosel-filmes .catalogo {
+    background-color: black ;
+    color: var(--vermelho);
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.catalogo .catalago-tipo {
+    margin-left: 15%;
+}
