@@ -18,13 +18,14 @@
     </head>
     <body>
         <header>
-            <div class="container">
+            <div id="inicio" class="container">
                 <h2 class="logo">NETFLIX</h2>
                 <nav>
-                    <a href="#">Inicio</a>
-                    <a href="#">Séries</a>
-                    <a href="#">Filmes</a>
-                    <a href="#">Documentário</a>
+                    <a href="#list1">Favoritos</a>
+                    <a href="#list2">Ação</a>
+                    <a href="#list3">Romance</a>
+                    <a href="#list4">Animes</a> 
+                    <a href="#info">Detalhes</a>         
                 </nav>
             </div>
         </header>
@@ -32,9 +33,11 @@
         <main>
             <div class="img-capa">
                 <div class="container">
-                    <h3 class="titulo">La Casa de Papel</h3>
+                    <h3 class="titulo">Velozes & Furiosos 9 (2021)</h3>
                     <p class="descricao">
-                        Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.
+                        Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, 
+                        um assassino mortal que está trabalhando com uma antiga inimiga, 
+                        a cyber-terrorista Cipher.
                     </p>
 
                     <div class="botoes">
@@ -50,12 +53,9 @@
                 </div>
             </div>
         </main>
-
-        <div class="carrosel-filmes">
-            <div class="catalogo">
-                <h3 class="catalago-tipo">Filmes</h3>
-            </div>
-            
+       
+        <div id="list1" class="carrosel-filmes"> 
+            <p class="catalogo-tipo">Favoritos</p>         
             <div class="owl-carousel owl-theme">
                     <div class="item">
                         <img class="box-filme" src="img/mini1.jpg" alt="" srcset="">
@@ -88,13 +88,10 @@
                         <img class="box-filme" src="img/mini10.jpg" alt="" srcset="">
                     </div>
             </div>
-        </div>
-
-        <div class="carrosel-filmes">
-            <div class="catalogo">
-                <h3 class="catalago-tipo">Series</h3>
-            </div>
-            
+        </div>        
+        
+        <div id="list2" class="carrosel-filmes">
+            <p class="catalogo-tipo">Ação</p>
             <div class="owl-carousel owl-theme">
                     <div class="item">
                         <img class="box-filme" src="img/mini1.jpg" alt="" srcset="">
@@ -129,11 +126,44 @@
             </div>
         </div>
 
-        <div class="carrosel-filmes">
-            <div class="catalogo">
-                <h3 class="catalago-tipo">Animes</h3>
+        <div id="list3" class="carrosel-filmes">
+            <p class="catalogo-tipo">Romance</p>
+            <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <img class="box-filme" src="img/animes/anime1.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/animes/anime2.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini3.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini4.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini5.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini6.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini7.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini8.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini9.jpg" alt="" srcset="">
+                    </div>
+                    <div class="item">
+                        <img class="box-filme" src="img/mini10.jpg" alt="" srcset="">
+                    </div>
             </div>
-            
+        </div>
+
+        <div id="list4" class="carrosel-filmes">
+            <p class="catalogo-tipo">Animes</p>
             <div class="owl-carousel owl-theme">
                     <div class="item">
                         <img class="box-filme" src="img/mini1.jpg" alt="" srcset="">
@@ -164,75 +194,41 @@
                     </div>
                     <div class="item">
                         <img class="box-filme" src="img/mini10.jpg" alt="" srcset="">
-                    </div>
-            </div>
-        </div>
-
-        <div class="carrosel-filmes">
-            <div class="catalogo">
-                <h3 class="catalago-tipo">Aguardados</h3>
-            </div>
-            
-            <div class="owl-carousel owl-theme">
-                    <div class="item">
-                        <img class="box-filme" src="img/mini1.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini2.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini3.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini4.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini5.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini6.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini7.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini8.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini9.jpg" alt="" srcset="">
-                    </div>
-                    <div class="item">
-                        <img class="box-filme" src="img/mini10.jpg" alt="" srcset="">
-                    </div>
+                    </div>                   
             </div>
         </div>
 
 
-        <div class="detalhes">
-            <div class="autor">
-                <h2 class="logo">info</h2>
-            </div>
-
-            <div class="img-capa">
+        <div id="info" class="carrosel-filmes">
+            <p class="catalogo-tipo">Detalhes</p>
+            <div class="img-final">
                 <div class="container">
                     <h3 class="titulo">MINHA NETFLIX</h3>
                     <p class="descricao">
-                        Sobre O projeto
+                        <ul>Descricão</ul>
+                        <ul>Descricão</ul>
+                        <ul>Descricão</ul>
+                        <ul>Descricão</ul>
+                        <ul>Descricão</ul>
                     </p>
 
                     <div class="botoes">
                         <button role="botao" class="botao">
-                            <i class="fas fa-play"></i>
-                            GIT HUB
+                            <i class="fab fa-github"></i>
+                            <a href="https://lab.github.com/" target="_blank">GIT HUB</a> 
                         </button>
                         <button role="botao" class="botao">
-                            <i class="fas fa-info-circle"></i>
-                            FACEBOOK
+                            <i class="fab fa-facebook"></i>
+                            <a href="https://www.facebook.com/Erimilson/">FACEBOOK</a>
                         </button>
                     </div>
                 </div>
             </div>
         </div>
+        
+        <a class="icone-seta" href="#inicio">
+            <i class="fas fa-arrow-up"></i>
+        </a>
 
         <script src="https://kit.fontawesome.com/2c36e9b7b1.js"></script>
         <!--    OWL JS      -->

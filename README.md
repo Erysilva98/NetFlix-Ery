@@ -37,12 +37,22 @@ Recriando a Interface da NetFlix
     - Finalizando ás 20h30m
     * ------------------------------ *
 
-#### Idéias para Implementadas
+#### Idéias para Implementar
     - Início ás 14h
     - 08/10/2021
     - Criação dos topicos do Catálogo
     - Esboço do Site em andamento
     - Pausa ás 15h15m
     - Realizando pesquisar para o catálogo
-    - Filme, Séries, animes e etc.
+    - Filme e suas Categorias
     * ------------------------------------- *
+    - Retonando ás 21h
+    - Criação do Catálago em andamento
+    - Adicionado Icone de Botão para retonar ao topo
+    - Ajuste do Menu e Icone
+    - Definido o esboço final do site
+    - Finalizando ás 00h22 do dia 09/11/2021
+    * ----------------------------------------- *
+
+#### Desenvolvimento da Versão Final do Site 
+    - 

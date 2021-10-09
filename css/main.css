@@ -17,7 +17,7 @@ body {
 
 }
 
-header .container {
+header .container{
    display: flex;
    flex-direction: row;
    align-items: center;
@@ -44,10 +44,10 @@ header nav a:hover {
 /* IMG - CAPA */
 
 .img-capa {
-    font-size: 17px;
-    background-image: linear-gradient(rgba(0,0,0,.30), rgba(0,0,0,.30)100% ), url('../img/capa-house.jpg');
+    font-size: 18px;
+    background-image: linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)100% ), url('../img/capa-house.jpg');
 
-    height: 500px;
+    height: 550px;
     background-size: cover;
 
     display: flex;
@@ -57,12 +57,12 @@ header nav a:hover {
 }
 
 .img-capa .descricao {
-    margin-top: 5px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 .img-capa .titulo {
-    margin-top: 15%;
+    margin-top: 5%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
@@ -89,12 +89,17 @@ header nav a:hover {
     margin-right: 8px;
 }
 
+.botao a {
+    color: var(--vermelho);
+    text-decoration: none;
+}
+
 .container {
     margin-left: 20px;
 }
 
 .img-capa .container {
-    width: 80%;
+    width: 100%;
 }
 
 .box-filme {
@@ -104,18 +109,40 @@ header nav a:hover {
     cursor: pointer;
 }
 
-.carrosel-filmes {
-    margin-top: 10px;
-}
-
-.carrosel-filmes .catalogo {
-    background-color: black ;
-    color: var(--vermelho);
-    margin-bottom: 5px;
-    font-size: 30px;
+.carrosel-filmes .catalogo-tipo {
+    margin-left: 15%;   
     font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: var(--vermelho);
+    text-transform: uppercase;
+    font-size: 30px;
 }
 
-.catalogo .catalago-tipo {
-    margin-left: 15%;
+.img-final {
+    font-size: 18px;
+    background-image: linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)100% ), url('../img/img-final.jpg');
+
+    height: 500px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.icone-seta{
+    position: fixed;
+    right: 50px;
+    bottom: 100px;
+    width: 50px;
+    height: 50px;
+    background: rgb(14, 1, 1);
+    background: -webkit-linear-gradient(to right, #800606, #7e1919);
+    background: linear-gradient(to left, #ad1c1c, #441111);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(0, 0, 0);
+    border-radius: 15px;
+    box-shadow: 0 2px 4px #fcfcfc;
 }

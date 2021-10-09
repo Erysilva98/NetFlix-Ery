@@ -17,6 +17,13 @@
     .carrosel-filmes{
         margin-top: 60px;
     }
+
+    .icone-seta {
+        position: absolute;
+        color: transparent;
+        background: transparent;
+        box-shadow: none;
+    }
 }
 
 @media screen and (min-width:1000px){
