@@ -25,7 +25,7 @@ Recriando a Interface da NetFlix
     - Adcionado o Carrosel de Filmes 
     - Carrosel criado usando Jquery
     - Owl Carousel ( Demons / basic  )
-    - Imagens do catágolo - The moveis db
+    - Imagens do catálogo - The moveis db
     - Finalizando ás 22h36m
     * ----------------------------- * 
 
@@ -47,7 +47,7 @@ Recriando a Interface da NetFlix
     - Filme e suas Categorias
     * ------------------------------------- *
     - Retonando ás 21h
-    - Criação do Catálago em andamento
+    - Criação do Catálogo em andamento
     - Adicionado Icone de Botão para retonar ao topo
     - Ajuste do Menu e Icone
     - Definido o esboço final do site
@@ -58,8 +58,8 @@ Recriando a Interface da NetFlix
     - Iniciando ás 20h
     - 13/10/2021
     - Retornado ao Código após 5 Dias (Imprevisto)
-    - Anexando as Imagens do Catálago
-    - Catálago Finalizado
+    - Anexando as Imagens do Catálogo
+    - Catálogo Finalizado
     - Links Implementados
     - Finalizando esta fase do projeto
     - 23h55m
@@ -68,11 +68,11 @@ Recriando a Interface da NetFlix
 
 #### Descrição do Projeto
     - Interface da NetFlix
-    - Criada um catálago de Filmes
-    - Baseados em minhas preferencias
-    - Divisões da Pagina
+    - Criada um catálogo de Filmes
+    - Baseados em minhas preferências
+    - Divisões da Página
     - Destaque - Imagen Inicial
-    - 2 Catálago disponivel 
+    - 2 Catálogo disponível 
     - Descrição da Página
     - Link do Desenvolvedor
     * ---------------------------------------- * 
