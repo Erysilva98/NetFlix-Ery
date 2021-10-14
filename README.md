@@ -55,4 +55,30 @@ Recriando a Interface da NetFlix
     * ----------------------------------------- *
 
 #### Desenvolvimento da Versão Final do Site 
-    - 
+    - Iniciando ás 20h
+    - 13/10/2021
+    - Retornado ao Código após 5 Dias (Imprevisto)
+    - Anexando as Imagens do Catálago
+    - Catálago Finalizado
+    - Links Implementados
+    - Finalizando esta fase do projeto
+    - 23h55m
+    - 13/10/2021
+    * ----------------------------------------- * 
+
+#### Descrição do Projeto
+    - Interface da NetFlix
+    - Criada um catálago de Filmes
+    - Baseados em minhas preferencias
+    - Divisões da Pagina
+    - Destaque - Imagen Inicial
+    - 2 Catálago disponivel 
+    - Descrição da Página
+    - Link do Desenvolvedor
+    * ---------------------------------------- * 
+
+#### Lembrete
+    - Entregando Projeto 
+    - 00h20m
+    - 14/10/2021
+

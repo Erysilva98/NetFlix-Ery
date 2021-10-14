@@ -109,6 +109,8 @@ header nav a:hover {
     cursor: pointer;
 }
 
+/* Descrição */
+
 .carrosel-filmes .catalogo-tipo {
     margin-left: 15%;   
     font-family: 'Trebuchet MS', Arial, sans-serif;
@@ -128,6 +130,20 @@ header nav a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+}
+
+.img-final .info {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+
+ }
+
+.img-final h3 {
+    text-transform: uppercase;
+    color: var(--vermelho);
 }
 
 .icone-seta{
