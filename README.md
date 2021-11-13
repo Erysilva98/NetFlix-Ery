@@ -1,7 +1,7 @@
 # NetFlix-Ery
 Recriando a Interface da NetFlix
 
-### Digital Inovation One
+### Digital Innovation One
     - Desenvolvimento do Projeto com Base nas aulas
     - Liguagens
         * HTML5
